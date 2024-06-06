@@ -1,4 +1,4 @@
-<img align="right" src="../.repo/images/logo-header.png" width="128px" height="128px" />
+<img align="right" src="../repo/images/logo-header.png" width="128px" height="128px" />
 
 # Beatbump
 
